@@ -53,7 +53,7 @@ from bs4 import BeautifulSoup
 TARGET_URL = "https://github.com/collections/machine-learning"
 
 # Set to False while debugging — lets you watch the browser
-HEADLESS = True
+HEADLESS = False
 
 # Seconds to wait for page elements before timing out
 WAIT_TIMEOUT = 15
