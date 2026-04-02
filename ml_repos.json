@@ -1,0 +1,182 @@
+[
+  {
+    "name": "spark",
+    "owner": "apache",
+    "description": "",
+    "language": "Scala",
+    "stars": 43077,
+    "forks": 29144,
+    "url": "https://github.com/apache/spark"
+  },
+  {
+    "name": "hadoop",
+    "owner": "apache",
+    "description": "",
+    "language": "Java",
+    "stars": 15512,
+    "forks": 9208,
+    "url": "https://github.com/apache/hadoop"
+  },
+  {
+    "name": "awesome-computer-vision",
+    "owner": "jbhuang0604",
+    "description": "",
+    "language": "",
+    "stars": 23157,
+    "forks": 4429,
+    "url": "https://github.com/jbhuang0604/awesome-computer-vision"
+  },
+  {
+    "name": "data",
+    "owner": "GSA",
+    "description": "",
+    "language": "HTML",
+    "stars": 2259,
+    "forks": 282,
+    "url": "https://github.com/GSA/data"
+  },
+  {
+    "name": "data",
+    "owner": "GoogleTrends",
+    "description": "",
+    "language": "JavaScript",
+    "stars": 4812,
+    "forks": 459,
+    "url": "https://github.com/GoogleTrends/data"
+  },
+  {
+    "name": "data",
+    "owner": "nationalparkservice",
+    "description": "",
+    "language": "JavaScript",
+    "stars": 1253,
+    "forks": 87,
+    "url": "https://github.com/nationalparkservice/data"
+  },
+  {
+    "name": "data",
+    "owner": "fivethirtyeight",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": 17328,
+    "forks": 11102,
+    "url": "https://github.com/fivethirtyeight/data"
+  },
+  {
+    "name": "medical-data",
+    "owner": "beamandrew",
+    "description": "",
+    "language": "",
+    "stars": 5980,
+    "forks": 1131,
+    "url": "https://github.com/beamandrew/medical-data"
+  },
+  {
+    "name": "awesome-machine-learning-on-source-code",
+    "owner": "src-d",
+    "description": "",
+    "language": "",
+    "stars": 6546,
+    "forks": 837,
+    "url": "https://github.com/src-d/awesome-machine-learning-on-source-code"
+  },
+  {
+    "name": "decisiontree",
+    "owner": "igrigorik",
+    "description": "",
+    "language": "Ruby",
+    "stars": 1476,
+    "forks": 130,
+    "url": "https://github.com/igrigorik/decisiontree"
+  },
+  {
+    "name": "awesome-nlp",
+    "owner": "keon",
+    "description": "",
+    "language": "",
+    "stars": 18370,
+    "forks": 2760,
+    "url": "https://github.com/keon/awesome-nlp"
+  },
+  {
+    "name": "gym",
+    "owner": "openai",
+    "description": "",
+    "language": "Python",
+    "stars": 37128,
+    "forks": 8705,
+    "url": "https://github.com/openai/gym"
+  },
+  {
+    "name": "awesome-rl",
+    "owner": "aikorea",
+    "description": "",
+    "language": "",
+    "stars": 9702,
+    "forks": 1903,
+    "url": "https://github.com/aikorea/awesome-rl"
+  },
+  {
+    "name": "Eigentechno",
+    "owner": "umutisik",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": 780,
+    "forks": 43,
+    "url": "https://github.com/umutisik/Eigentechno"
+  },
+  {
+    "name": "tf-idf-similarity",
+    "owner": "jpmckinney",
+    "description": "",
+    "language": "Ruby",
+    "stars": 776,
+    "forks": 63,
+    "url": "https://github.com/jpmckinney/tf-idf-similarity"
+  },
+  {
+    "name": "lightning",
+    "owner": "scikit-learn-contrib",
+    "description": "",
+    "language": "Python",
+    "stars": 1770,
+    "forks": 218,
+    "url": "https://github.com/scikit-learn-contrib/lightning"
+  },
+  {
+    "name": "draw_convnet",
+    "owner": "gwding",
+    "description": "",
+    "language": "Python",
+    "stars": 2848,
+    "forks": 524,
+    "url": "https://github.com/gwding/draw_convnet"
+  },
+  {
+    "name": "scikit-learn",
+    "owner": "scikit-learn",
+    "description": "",
+    "language": "Python",
+    "stars": 65597,
+    "forks": 26872,
+    "url": "https://github.com/scikit-learn/scikit-learn"
+  },
+  {
+    "name": "tensorflow",
+    "owner": "tensorflow",
+    "description": "",
+    "language": "C++",
+    "stars": 194436,
+    "forks": 75259,
+    "url": "https://github.com/tensorflow/tensorflow"
+  },
+  {
+    "name": "deeplake",
+    "owner": "activeloopai",
+    "description": "",
+    "language": "C++",
+    "stars": 9056,
+    "forks": 708,
+    "url": "https://github.com/activeloopai/deeplake"
+  }
+]

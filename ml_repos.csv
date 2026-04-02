@@ -1,0 +1,21 @@
+name,owner,description,language,stars,forks,url
+spark,apache,,Scala,43077,29144,https://github.com/apache/spark
+hadoop,apache,,Java,15512,9208,https://github.com/apache/hadoop
+awesome-computer-vision,jbhuang0604,,,23157,4429,https://github.com/jbhuang0604/awesome-computer-vision
+data,GSA,,HTML,2259,282,https://github.com/GSA/data
+data,GoogleTrends,,JavaScript,4812,459,https://github.com/GoogleTrends/data
+data,nationalparkservice,,JavaScript,1253,87,https://github.com/nationalparkservice/data
+data,fivethirtyeight,,Jupyter Notebook,17328,11102,https://github.com/fivethirtyeight/data
+medical-data,beamandrew,,,5980,1131,https://github.com/beamandrew/medical-data
+awesome-machine-learning-on-source-code,src-d,,,6546,837,https://github.com/src-d/awesome-machine-learning-on-source-code
+decisiontree,igrigorik,,Ruby,1476,130,https://github.com/igrigorik/decisiontree
+awesome-nlp,keon,,,18370,2760,https://github.com/keon/awesome-nlp
+gym,openai,,Python,37128,8705,https://github.com/openai/gym
+awesome-rl,aikorea,,,9702,1903,https://github.com/aikorea/awesome-rl
+Eigentechno,umutisik,,Jupyter Notebook,780,43,https://github.com/umutisik/Eigentechno
+tf-idf-similarity,jpmckinney,,Ruby,776,63,https://github.com/jpmckinney/tf-idf-similarity
+lightning,scikit-learn-contrib,,Python,1770,218,https://github.com/scikit-learn-contrib/lightning
+draw_convnet,gwding,,Python,2848,524,https://github.com/gwding/draw_convnet
+scikit-learn,scikit-learn,,Python,65597,26872,https://github.com/scikit-learn/scikit-learn
+tensorflow,tensorflow,,C++,194436,75259,https://github.com/tensorflow/tensorflow
+deeplake,activeloopai,,C++,9056,708,https://github.com/activeloopai/deeplake
